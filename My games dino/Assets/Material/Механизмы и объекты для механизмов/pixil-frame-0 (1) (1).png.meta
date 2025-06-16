@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: b31e43c46752bd5429b44ccb5cfeb5a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-frame-0 (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be80d5d6b1fd3a4bba1a6de1f69c636
+      internalID: -1961378068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-0 (1) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c6a9414ff39747aa25ed5cea2d926
+      internalID: -259711205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-0 (1) (1)_147
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f61029d060d2b4484c3442e2915ea7
+      internalID: 1190228627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixil-frame-0 (1) (1)_0: 515032358
+      pixil-frame-0 (1) (1)_1: 2032422806
+      pixil-frame-0 (1) (1)_10: 1776975106
+      pixil-frame-0 (1) (1)_100: -1640713890
+      pixil-frame-0 (1) (1)_101: -2050096538
+      pixil-frame-0 (1) (1)_102: -1458777023
+      pixil-frame-0 (1) (1)_103: 1248659958
+      pixil-frame-0 (1) (1)_104: -1970210535
+      pixil-frame-0 (1) (1)_105: -43387187
+      pixil-frame-0 (1) (1)_106: 699040639
+      pixil-frame-0 (1) (1)_107: -109550804
+      pixil-frame-0 (1) (1)_108: 508049790
+      pixil-frame-0 (1) (1)_109: -1129942785
+      pixil-frame-0 (1) (1)_11: -210158135
+      pixil-frame-0 (1) (1)_110: -1197690873
+      pixil-frame-0 (1) (1)_111: -291754449
+      pixil-frame-0 (1) (1)_112: 1308144674
+      pixil-frame-0 (1) (1)_113: 1678516244
+      pixil-frame-0 (1) (1)_114: 44843272
+      pixil-frame-0 (1) (1)_115: 845915904
+      pixil-frame-0 (1) (1)_116: 1382781202
+      pixil-frame-0 (1) (1)_117: 698558756
+      pixil-frame-0 (1) (1)_118: 1228326541
+      pixil-frame-0 (1) (1)_119: -1058476193
+      pixil-frame-0 (1) (1)_12: -1956056288
+      pixil-frame-0 (1) (1)_120: -532998638
+      pixil-frame-0 (1) (1)_121: 1545926573
+      pixil-frame-0 (1) (1)_122: -1021424697
+      pixil-frame-0 (1) (1)_123: -231711545
+      pixil-frame-0 (1) (1)_124: -753553425
+      pixil-frame-0 (1) (1)_125: -280769360
+      pixil-frame-0 (1) (1)_126: 1248719741
+      pixil-frame-0 (1) (1)_127: -2035907846
+      pixil-frame-0 (1) (1)_128: -1093310733
+      pixil-frame-0 (1) (1)_129: -1677340039
+      pixil-frame-0 (1) (1)_13: 750635641
+      pixil-frame-0 (1) (1)_130: -341150765
+      pixil-frame-0 (1) (1)_131: -1349320745
+      pixil-frame-0 (1) (1)_132: 595822249
+      pixil-frame-0 (1) (1)_133: -1379970928
+      pixil-frame-0 (1) (1)_134: 858533753
+      pixil-frame-0 (1) (1)_135: 955412947
+      pixil-frame-0 (1) (1)_136: 256362703
+      pixil-frame-0 (1) (1)_137: -201341662
+      pixil-frame-0 (1) (1)_138: -290461766
+      pixil-frame-0 (1) (1)_139: 8822050
+      pixil-frame-0 (1) (1)_14: -1111760684
+      pixil-frame-0 (1) (1)_140: 691779634
+      pixil-frame-0 (1) (1)_141: 1678939942
+      pixil-frame-0 (1) (1)_142: -225011383
+      pixil-frame-0 (1) (1)_143: 566761671
+      pixil-frame-0 (1) (1)_144: -858363116
+      pixil-frame-0 (1) (1)_145: 1955068461
+      pixil-frame-0 (1) (1)_146: 803213467
+      pixil-frame-0 (1) (1)_147: 1190228627
+      pixil-frame-0 (1) (1)_148: -760875159
+      pixil-frame-0 (1) (1)_149: -1266064838
+      pixil-frame-0 (1) (1)_15: 374515935
+      pixil-frame-0 (1) (1)_150: 1294505609
+      pixil-frame-0 (1) (1)_151: -943341792
+      pixil-frame-0 (1) (1)_152: 267129340
+      pixil-frame-0 (1) (1)_153: 207099075
+      pixil-frame-0 (1) (1)_154: 1964426146
+      pixil-frame-0 (1) (1)_155: 1980516415
+      pixil-frame-0 (1) (1)_156: 1817688201
+      pixil-frame-0 (1) (1)_157: 1080075863
+      pixil-frame-0 (1) (1)_158: -404983399
+      pixil-frame-0 (1) (1)_159: 195270966
+      pixil-frame-0 (1) (1)_16: 116673924
+      pixil-frame-0 (1) (1)_160: -451075080
+      pixil-frame-0 (1) (1)_161: 88155717
+      pixil-frame-0 (1) (1)_162: 481632473
+      pixil-frame-0 (1) (1)_163: -1867550024
+      pixil-frame-0 (1) (1)_164: 837413115
+      pixil-frame-0 (1) (1)_165: -154374317
+      pixil-frame-0 (1) (1)_166: -1295031664
+      pixil-frame-0 (1) (1)_167: 1315234529
+      pixil-frame-0 (1) (1)_168: -260234964
+      pixil-frame-0 (1) (1)_169: -729118929
+      pixil-frame-0 (1) (1)_17: 1344700077
+      pixil-frame-0 (1) (1)_170: -901980053
+      pixil-frame-0 (1) (1)_171: -241329955
+      pixil-frame-0 (1) (1)_172: -1627509847
+      pixil-frame-0 (1) (1)_173: -943782693
+      pixil-frame-0 (1) (1)_174: -903353317
+      pixil-frame-0 (1) (1)_175: 1148976713
+      pixil-frame-0 (1) (1)_176: -1254932138
+      pixil-frame-0 (1) (1)_177: -498984492
+      pixil-frame-0 (1) (1)_178: 155472435
+      pixil-frame-0 (1) (1)_179: 1908436138
+      pixil-frame-0 (1) (1)_18: -1041045781
+      pixil-frame-0 (1) (1)_19: -1757691920
+      pixil-frame-0 (1) (1)_2: -1961378068
+      pixil-frame-0 (1) (1)_20: 1946470102
+      pixil-frame-0 (1) (1)_21: -1393803043
+      pixil-frame-0 (1) (1)_22: -259711205
+      pixil-frame-0 (1) (1)_23: 1041197041
+      pixil-frame-0 (1) (1)_24: 1406185353
+      pixil-frame-0 (1) (1)_25: -427605498
+      pixil-frame-0 (1) (1)_26: -249326204
+      pixil-frame-0 (1) (1)_27: -253460305
+      pixil-frame-0 (1) (1)_28: 375244621
+      pixil-frame-0 (1) (1)_29: -40960324
+      pixil-frame-0 (1) (1)_3: -1638506701
+      pixil-frame-0 (1) (1)_30: -1486613312
+      pixil-frame-0 (1) (1)_31: -1576986960
+      pixil-frame-0 (1) (1)_32: -393411797
+      pixil-frame-0 (1) (1)_33: 237040654
+      pixil-frame-0 (1) (1)_34: -418992634
+      pixil-frame-0 (1) (1)_35: -2007017398
+      pixil-frame-0 (1) (1)_36: -1589729140
+      pixil-frame-0 (1) (1)_37: 967470844
+      pixil-frame-0 (1) (1)_38: -1532550916
+      pixil-frame-0 (1) (1)_39: 1753909368
+      pixil-frame-0 (1) (1)_4: 1512551247
+      pixil-frame-0 (1) (1)_40: -187242430
+      pixil-frame-0 (1) (1)_41: -1937305212
+      pixil-frame-0 (1) (1)_42: 242230501
+      pixil-frame-0 (1) (1)_43: -110719589
+      pixil-frame-0 (1) (1)_44: -1130464286
+      pixil-frame-0 (1) (1)_45: -1553007765
+      pixil-frame-0 (1) (1)_46: 73477976
+      pixil-frame-0 (1) (1)_47: 960538780
+      pixil-frame-0 (1) (1)_48: 245765803
+      pixil-frame-0 (1) (1)_49: 955259271
+      pixil-frame-0 (1) (1)_5: -2003499959
+      pixil-frame-0 (1) (1)_50: -844426609
+      pixil-frame-0 (1) (1)_51: -67858984
+      pixil-frame-0 (1) (1)_52: -248243811
+      pixil-frame-0 (1) (1)_53: -735627104
+      pixil-frame-0 (1) (1)_54: -1413763431
+      pixil-frame-0 (1) (1)_55: 1420993432
+      pixil-frame-0 (1) (1)_56: 1697872151
+      pixil-frame-0 (1) (1)_57: 1222895766
+      pixil-frame-0 (1) (1)_58: 351814814
+      pixil-frame-0 (1) (1)_59: -789264006
+      pixil-frame-0 (1) (1)_6: -930116653
+      pixil-frame-0 (1) (1)_60: 143745351
+      pixil-frame-0 (1) (1)_61: 1689204770
+      pixil-frame-0 (1) (1)_62: 1958699699
+      pixil-frame-0 (1) (1)_63: -1450679803
+      pixil-frame-0 (1) (1)_64: -1064441443
+      pixil-frame-0 (1) (1)_65: 437080635
+      pixil-frame-0 (1) (1)_66: 197366747
+      pixil-frame-0 (1) (1)_67: 205380085
+      pixil-frame-0 (1) (1)_68: 1242642902
+      pixil-frame-0 (1) (1)_69: -1084734235
+      pixil-frame-0 (1) (1)_7: -668791308
+      pixil-frame-0 (1) (1)_70: -1353817463
+      pixil-frame-0 (1) (1)_71: -1910143056
+      pixil-frame-0 (1) (1)_72: -1913960646
+      pixil-frame-0 (1) (1)_73: 2146209630
+      pixil-frame-0 (1) (1)_74: -687311291
+      pixil-frame-0 (1) (1)_75: -479306003
+      pixil-frame-0 (1) (1)_76: -189421194
+      pixil-frame-0 (1) (1)_77: -150994637
+      pixil-frame-0 (1) (1)_78: -264099744
+      pixil-frame-0 (1) (1)_79: 663335459
+      pixil-frame-0 (1) (1)_8: 14067340
+      pixil-frame-0 (1) (1)_80: -1347334579
+      pixil-frame-0 (1) (1)_81: -1762484662
+      pixil-frame-0 (1) (1)_82: -1658394088
+      pixil-frame-0 (1) (1)_83: 1950767351
+      pixil-frame-0 (1) (1)_84: 148866537
+      pixil-frame-0 (1) (1)_85: 2067328724
+      pixil-frame-0 (1) (1)_86: -6815777
+      pixil-frame-0 (1) (1)_87: 2084031858
+      pixil-frame-0 (1) (1)_88: 428924280
+      pixil-frame-0 (1) (1)_89: -851056590
+      pixil-frame-0 (1) (1)_9: -1645816369
+      pixil-frame-0 (1) (1)_90: -973804699
+      pixil-frame-0 (1) (1)_91: 702006757
+      pixil-frame-0 (1) (1)_92: -381109043
+      pixil-frame-0 (1) (1)_93: -754722249
+      pixil-frame-0 (1) (1)_94: 372682024
+      pixil-frame-0 (1) (1)_95: 864969484
+      pixil-frame-0 (1) (1)_96: -1243497811
+      pixil-frame-0 (1) (1)_97: 427762359
+      pixil-frame-0 (1) (1)_98: 1437002192
+      pixil-frame-0 (1) (1)_99: -1161887420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

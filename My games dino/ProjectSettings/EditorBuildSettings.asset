@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Scenes/\u0412\u0441\u0442\u0443\u043F\u043B\u043D\u0438\u0435.unity"
+    guid: 75325b6031b1526429db4ba545eeee2f
+  - enabled: 1
+    path: "Assets/Scenes/\u0413\u043B\u0430\u0432\u043D\u043E\u0435 \u043C\u0435\u043D\u044E.unity"
+    guid: 0c0b1c0fc081d9548b13b831db6c1699
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A(\u043C\u0435\u043D\u044E).unity"
+    guid: fff7b639ee8f5dd478988d51b1d56af6
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (\u043C\u0435\u043D\u044E).unity"
+    guid: 0d1b5a4b2ca77174080f549f10ef4d62
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A (0 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 71db031b68b1b4444913a0a774cc439c
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A (1 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 937304882b25f874c9924f1df50a15e1
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A (2 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 556216d81e4f2644786326cc7c4a0820
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A (3 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 42875511df3375a488e88a1a22094216
+  - enabled: 1
+    path: "Assets/Scenes/1 \u0438\u0433\u0440\u043E\u043A (4 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: e2ac5dd8378cbdc418205afaac6ff71a
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (0 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: bf98b37d686cc774f9b2d2113e9e5344
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (1 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 1f61f7532a2bdb14ab393e191853297a
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (2 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (3 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: 5f43c50a3b20a434d98cfcdc79da1336
+  - enabled: 1
+    path: "Assets/Scenes/2 \u0438\u0433\u0440\u043E\u043A\u0430 (4 \u0443\u0440\u043E\u0432\u0435\u043D\u044C).unity"
+    guid: d55b11a6fb3c05a458bbae4a67fe15df
+  - enabled: 1
+    path: "Assets/Scenes/\u041A\u0430\u0441\u0442\u0441\u0446\u0435\u043D\u0430.unity"
+    guid: 54420940e0ce4e74d8a420edac5f5553
+  - enabled: 1
+    path: "Assets/Scenes/\u041A\u0430\u0441\u0442\u0441\u0446\u0435\u043D\u04302.unity"
+    guid: 12ff28a303a35d744ae3769fad656d1a
+  m_configObjects: {}
